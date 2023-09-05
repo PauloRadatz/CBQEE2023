@@ -1,0 +1,7 @@
+Hour=0, Sec=0.06, ControlIter=1, Element=Fault.3_ph, Action=**APPLIED**
+Hour=0, Sec=0.08, ControlIter=1, Element=Recloser.a, Action=OPENED, FAST
+Hour=0, Sec=0.08, ControlIter=1, Element= , Action=PHASE TARGET
+Hour=0, Sec=0.58, ControlIter=1, Element=Recloser.a, Action=CLOSED
+Hour=0, Sec=0.91, ControlIter=1, Element=Fuse.f1, Action=PHASE 2 BLOWN
+Hour=0, Sec=0.91, ControlIter=1, Element=Fuse.f1, Action=PHASE 3 BLOWN
+Hour=0, Sec=0.95, ControlIter=1, Element=Fuse.f1, Action=PHASE 1 BLOWN

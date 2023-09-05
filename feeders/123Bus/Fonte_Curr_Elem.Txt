@@ -1,0 +1,35 @@
+
+CIRCUIT ELEMENT CURRENTS
+
+(Currents into element from indicated bus)
+
+Power Delivery Elements
+
+  Bus Phase    Magnitude, A     Angle      (Real)   +j  (Imag)
+
+ELEMENT = "Vsource.SOURCE"
+A        1                0 /_    0.0 =          0 +j         0
+------------
+A        0                0 /_    0.0 =          0 +j         0
+
+ELEMENT = "Isource.I"
+B        1                1 /_  180.0 =         -1 +j         0
+------------
+B        0                1 /_    0.0 =          1 +j         0
+
+ELEMENT = "Line.LINHA"
+A        0           2.0548 /_  139.8 =    -1.5693 +j    1.3264
+------------
+B        1           2.0548 /_  -40.2 =     1.5693 +j   -1.3264
+
+ELEMENT = "Capacitor.C"
+B        1           1.4434 /_  113.2 =   -0.56932 +j    1.3264
+------------
+B        0           1.4434 /_  -66.8 =    0.56932 +j   -1.3264
+
+= = = = = = = = = = = = = = = = = = =  = = = = = = = = = = =  = =
+
+Power Conversion Elements
+
+  Bus Phase    Magnitude, A     Angle      (Real)   +j  (Imag)
+

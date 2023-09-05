@@ -1,0 +1,7 @@
+
+LINE-GROUND and LINE-LINE VOLTAGES BY BUS & NODE
+
+Bus  Node    VLN (kV)   Angle      pu     Base kV    Node-Node   VLL (kV)  Angle      pu
+
+A .. 1      0.21997 /_    0.0   0.99987     0.381
+B .. 1      0.21994 /_    0.0   0.99973     0.381
