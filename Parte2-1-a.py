@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 9/16/2022 4:00 PM
 # @Author  : Paulo Radatz
-# @Email   : pradatz@epri.com
+
 # @File    : Parte2-1-a.py
 # @Software: PyCharm
 

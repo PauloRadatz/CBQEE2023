@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 10/1/2022 6:32 PM
 # @Author  : Paulo Radatz
-# @Email   : pradatz@epri.com
+
 # @File    : compile_123bus_h.py
 # @Software: PyCharm
 
